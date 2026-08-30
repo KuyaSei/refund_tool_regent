@@ -1,4 +1,4 @@
-# Refund Manager - AJ Plaza
+# Refund Manager Tool
 
 A small internal tool built. This will help a support team manage customer refund requests - create them, view all of them, filter by status, and update a request's status.
 
